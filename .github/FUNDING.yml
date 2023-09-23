@@ -1,3 +1,4 @@
-# These are supported funding model platforms
-github: GURIZILLA
-custom: ["https://www.paypal.com/donate/?business=XKHN3PCWLC3JW&no_recurring=0&currency_code=BRL", PayPal]
+github: [octocat, surftocat]
+patreon: octocat
+tidelift: npm/octo-package
+custom: ["https://www.paypal.me/octocat", octocat.com]
