@@ -23,6 +23,17 @@
       valueLiveUpdate="true"
       width="60%"/>
       
+       <List
+      headerText="{i18n>invoiceListTitle}"
+      class="sapUiResponsiveMargin"
+      width="auto"
+      items="{invoice>/Invoices}" >
+      <items>
+         <ObjectListItem
+            title="{invoice>Quantity} x {invoice>ProductName}"/>
+      </items>
+   </List>
+      
        </content>
                </Panel>
             </content>
