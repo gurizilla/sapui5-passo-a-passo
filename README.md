@@ -19,9 +19,9 @@ Aula 16 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/i
 Seção 8:<br />
 Aula 17 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/aggregation-bindin">Aggregation Binding</a>  
 Aula 18 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/tipos-de-dados">Tipos de Dados</a>  
-Aula 20 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/expression-binding">Expression Binding</a>  
-Aula 21 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/filtrando-campo-de-busca">Filtrando (campo de busca</a>  
-Aula 22 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/ordenando-e-agrupando">Ordenando e Agrupando</a>  
+Aula 19 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/expression-binding">Expression Binding</a>  
+Aula 20 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/filtrando-campo-de-busca">Filtrando (campo de busca</a>  
+Aula 21 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/ordenando-e-agrupando">Ordenando e Agrupando</a>  
 
 Seção 9:<br />
-Aula 23 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/responsividade">Responsividade (adaptação a diversos dispositivos)</a>
+Aula 22 - <a href="https://github.com/gurizilla/sapui5-passo-a-passo/tree/main/responsividade">Responsividade (adaptação a diversos dispositivos)</a>
